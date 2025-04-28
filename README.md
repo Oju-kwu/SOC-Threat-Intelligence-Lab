@@ -46,9 +46,14 @@ Go to settings on wazuh manager to confirm the integration of virustotal API key
 Enable file integrity monitoring in configuration file to make wazuh to trigger virustotal integration when FIM alert occurs.
 ![Picture2](https://github.com/user-attachments/assets/329f452b-22c9-4f66-a555-b85c535e5fd7)
 
-*Ref 3: Integration Virustotal API to Wazuh Configuration Manager*
+*Ref 4: Integration Virustotal API to Wazuh Configuration Manager*
 
 ![image](https://github.com/user-attachments/assets/6919e10b-385e-4299-a86c-a4b4144f974c)
 
-*Ref 3: Wazuh Dashboard for alert monitoring and analysis*
+*Ref 5: Wazuh Dashboard for alert monitoring and analysis*
+
+### Conclusion
+In conclusion, this project has highlighted the critical role of enhanced threat intelligence feeds in supporting effective SOC operations. Small enhancements in threat intelligence processing can yield significant improvements. These changes reduce the workload on SOC analysts and empower them to respond to genuine threats more rapidly.
+
+Future work could further explore automation and machine learning techniques, aiming to make threat intelligence feeds even more adaptive to emerging cyber threats. Ultimately, this project contributes to a foundational understanding that enriched, high-quality intelligence feeds are essential for improved SOC operations. As cyber threats evolve, so must the methods of intelligence gathering and processing, making it imperative for SOCs to continuously refine their threat intelligence strategies.
 
